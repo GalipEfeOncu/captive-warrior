@@ -1,3 +1,3 @@
-# captive-warrior
+# Captive Warrior
 
 Still Cooking...
